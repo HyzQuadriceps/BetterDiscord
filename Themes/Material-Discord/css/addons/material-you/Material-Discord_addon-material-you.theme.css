@@ -12,14 +12,6 @@
 
 @import url(https://github.com/HyzQuadriceps/BetterDiscord/blob/master/Themes/Material-Discord/css/addons/material-you/source.css);
 
-:root {
-    --accent-hue: 224;
-    --accent-saturation: 71%;
-    --accent-lightness: 61%;
-    
-    --accent-text-color: #f54266;
-}
-
 .theme-dark {
     --saturation-modifier: 0.175;
     --lightness-modifier: 0.2;
